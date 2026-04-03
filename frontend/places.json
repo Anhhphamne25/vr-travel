@@ -1,0 +1,20 @@
+{
+  "halong": {
+    "id": "halong",
+    "name": "Vịnh Hạ Long",
+    "location": "Quảng Ninh, Việt Nam",
+    "description": "Vịnh Hạ Long là một trong những kỳ quan thiên nhiên thế giới được UNESCO công nhận, nổi tiếng với hàng nghìn hòn đảo đá vôi nhô lên từ mặt biển xanh ngọc bích. Nơi đây được mệnh danh là 'Thiên đường trên biển' với hệ sinh thái phong phú, các hang động huyền bí và phong cảnh ngoạn mục.",
+    "highlights": ["Di sản thế giới UNESCO", "Hang Sửng Sốt", "Đảo Ti Tốp", "Du thuyền đêm"],
+    "bestTime": "Tháng 10 – Tháng 4",
+    "emoji": "⛵"
+  },
+  "hoian": {
+    "id": "hoian",
+    "name": "Phố Cổ Hội An",
+    "location": "Quảng Nam, Việt Nam",
+    "description": "Hội An là đô thị cổ được bảo tồn gần như nguyên vẹn, mang đậm dấu ấn của nhiều nền văn hóa giao thoa qua hàng thế kỷ. Phố cổ lung linh với ánh đèn lồng ngũ sắc, những ngôi nhà gỗ trầm mặc, chùa chiền cổ kính và ẩm thực độc đáo.",
+    "highlights": ["Phố đèn lồng", "Chùa Cầu Nhật Bản", "Làng rau Trà Quế", "Cao lầu Hội An"],
+    "bestTime": "Tháng 2 – Tháng 8",
+    "emoji": "🏮"
+  }
+}

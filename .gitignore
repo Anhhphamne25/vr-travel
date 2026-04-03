@@ -1,0 +1,68 @@
+# =========================
+# 🔹 Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual env
+venv/
+.env/
+.venv/
+
+# =========================
+# 🔹 Environment variables
+# =========================
+.env
+.env.*
+
+# =========================
+# 🔹 Logs
+# =========================
+*.log
+
+# =========================
+# 🔹 OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# 🔹 IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# 🔹 Data (QUAN TRỌNG)
+# =========================
+data/places/     # 🔥 cái bạn nói (ảnh nặng)
+# nếu VR sau này nặng thì thêm:
+# data/vr/
+
+# =========================
+# 🔹 Model / AI
+# =========================
+*.npy
+*.pt
+*.pth
+*.onnx
+
+# ⚠️ Nếu bạn muốn giữ vectors.npy thì comment dòng trên và dùng:
+# data/vectors.npy
+
+# =========================
+# 🔹 Frontend (nếu có build)
+# =========================
+node_modules/
+dist/
+build/
+
+# =========================
+# 🔹 Misc
+# =========================
+*.zip
+*.tar.gz
+*.rar
