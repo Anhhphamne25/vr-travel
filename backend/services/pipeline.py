@@ -1,5 +1,5 @@
 from collections import Counter
-from backend.app.services.vector_store import search
+from backend.services.vector_store import search
 
 
 def recognize_place(vector):

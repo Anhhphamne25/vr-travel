@@ -1,7 +1,7 @@
 from fastapi import APIRouter, UploadFile, File
-from backend.app.utils.image import preprocess_image
-from backend.app.services.clip_service import encode_image
-from backend.app.services.pipeline import recognize_place
+from backend.utils.image import preprocess_image
+from backend.services.clip_service import encode_image
+from backend.services.pipeline import recognize_place
 
 router = APIRouter()
 

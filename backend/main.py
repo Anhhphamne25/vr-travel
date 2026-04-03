@@ -3,8 +3,8 @@ from fastapi import FastAPI
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 
-from backend.app.routes.recognize import router as recognize_router
-from backend.app.routes.place import router as place_router
+from backend.routes.recognize import router as recognize_router
+from backend.routes.place import router as place_router
 
 app = FastAPI()
 
