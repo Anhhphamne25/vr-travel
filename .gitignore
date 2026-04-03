@@ -38,14 +38,14 @@ Thumbs.db
 # =========================
 # 🔹 Data (QUAN TRỌNG)
 # =========================
-data/places/     # 🔥 cái bạn nói (ảnh nặng)
+data/places/
 # nếu VR sau này nặng thì thêm:
 # data/vr/
 
 # =========================
 # 🔹 Model / AI
 # =========================
-*.npy
+
 *.pt
 *.pth
 *.onnx
